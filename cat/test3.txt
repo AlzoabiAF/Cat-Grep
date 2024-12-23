@@ -1,0 +1,11 @@
+grep
+
+GREP
+
+    GREP GREP
+
+gRep
+
+clang
+CLANG
+-i_a
